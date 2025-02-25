@@ -1,8 +1,8 @@
 {
-  "name": "react-template",
+  "name": "react_practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmitryberesten.github.io/react-template/",
+  "homepage": "https://dmitryberesten.github.io/react_practice/",
   "dependencies": {
     "normalize.css": "^8.0.1",
     "prop-types": "^15.8.1",
